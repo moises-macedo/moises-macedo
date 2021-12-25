@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/moises-macedo">
-  <img align="center" height="155px"  width="49%" src="https://github-readme-stats.vercel.app/api?username=moises-macedo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img align="center" height="130px"  width="49%" src="https://github-readme-stats.vercel.app/api?username=moises-macedo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img align="center" height="250px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moises-macedo&layout=compact&theme=merko"/>
 </div>
 
