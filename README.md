@@ -1,8 +1,12 @@
-## Olá eu sou a Moisés Alex C. Macedo, seja bem vindo!
+<h1 align="center">  
+  Olá eu sou a Moisés Alex C. Macedo, seja bem vindo!
+  <img src="https://media3.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e476wmd6hnux9golvdevjhpowp60fi3ueqfas552fra&rid=giphy.gif&ct=g" width="50px">
+</h1>
+
 <div align="center">
   <a href="https://github.com/moises-macedo">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=moises-macedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moises-macedo&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" height="180em"  width="49%" src="https://github-readme-stats.vercel.app/api?username=moises-macedo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moises-macedo&layout=compact&theme=merko"/>
 </div>
 
   
