@@ -22,7 +22,7 @@
   
 <div>
   <p>Jogo Torneio Tribuxo</p>
-  <a href='https://react-entrega-s1-preparativos-para-o-torneio-trib-moises-macedo.vercel.app'>
+  <a href="https://react-entrega-s1-preparativos-para-o-torneio-trib-moises-macedo.vercel.app">
     
  </a>
 </div>
