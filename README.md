@@ -1,7 +1,11 @@
+<div align="center" > 
 <h1 align="center">  
-  Olá eu sou Moisés Alex C. Macedo, seja bem vindo!
-  <img src="https://media3.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e476wmd6hnux9golvdevjhpowp60fi3ueqfas552fra&rid=giphy.gif&ct=g" width="30px">
-</h1>
+  Olá eu sou Moisés Alex C. Macedo, seja bem vindo! </h1>
+  <img src="https://media3.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e476wmd6hnux9golvdevjhpowp60fi3ueqfas552fra&rid=giphy.gif&ct=g" width="100px">
+</div>
+
+
+
 
 <div align="center">
   <a href="https://github.com/moises-macedo">
